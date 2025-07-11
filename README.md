@@ -5,5 +5,21 @@ Active Link: https://music-app-jet-two.vercel.app/
 ## Demo
 ![Live Preview](Music_App_GIF.gif)
   
-## Tech Stack Overview
-This portfolio app was built using React.js, with HTML5 and CSS3 (leveraging Flexbox and Grid) to create a clean, responsive design. It features a custom click animation, an engaging word randomizer effect on load, and smooth scrolling with anchor-based jump navigation between sections. The site includes form submission functionality, image scrollers, and is fully responsive across all screen sizes. The project was bootstrapped with Create React App and deployed via GitHub Pages.
+## Overview
+This is a fully functional, browser-based music player built using HTML, CSS, and vanilla JavaScript. The app features a clean and accessible UI with the following capabilities:
+
+▶️ Play, Pause, Next, and Previous song controls
+
+🔀 Shuffle functionality that randomizes the playlist
+
+🗑️ Delete individual songs from the current playlist
+
+♻️ Reset option when the playlist is empty
+
+🎧 Live song title and artist display
+
+🧠 State management for tracking current song and play position
+
+🧩 Fully modular code using event-driven logic and DOM manipulation
+
+All songs are dynamically rendered using JavaScript. No external libraries or frameworks used—just lightweight, responsive, and accessible code.
