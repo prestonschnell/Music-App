@@ -6,7 +6,7 @@ Active Link: https://music-app-jet-two.vercel.app/
 ![Live Preview](Music_App_GIF.gif)
   
 ## Overview
-This is a fully functional, browser-based music player built using HTML, CSS, and vanilla JavaScript. The app features a clean and accessible UI with the following capabilities:
+This is a fully functional browser-based music player built using HTML, CSS, and vanilla JavaScript. The app features a clean and accessible UI with the following capabilities:
 
 ▶️ Play, Pause, Next, and Previous song controls
 
